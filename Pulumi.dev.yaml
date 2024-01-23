@@ -1,0 +1,2 @@
+environment:
+  - container-aws-go-dev
